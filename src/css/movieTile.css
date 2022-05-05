@@ -1,0 +1,18 @@
+p {
+    text-align: center;
+    margin: 0;
+}
+
+.movie-title {
+    color: #32aabb;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+.movie-subtitle {
+    padding-top: 5px;
+    color: #6b6969;
+    font-weight: 700;
+    font-size: 13px;
+    word-wrap: break-word;
+}
